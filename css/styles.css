@@ -218,12 +218,14 @@
 .detail h3{
   font-size: 1.5em;
   margin-bottom: 1em;
+  text-align: left;
 }
 
 .detail-description ul {
   list-style-position: inside;
   text-align: left;
 }
+
 
 
 .detail-description ul li{
